@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400&display=swap");
+* {
+  font-family: "Lato", sans-serif;
+}
+
+.customColor {
+  background-color: #0a0a23;
+}
+.donat-btn {
+  background-color: #f1a02a;
+  padding: 3px 20px;
+}
+.head-info {
+  background-color: #002ead;
+}
+.head-info span {
+  text-decoration: underline;
+}
+.head-info span:hover {
+  text-decoration: none;
+}
+.title {
+  font-size: 50px;
+  font-weight: 700;
+}
+
+.img-div {
+  width: 70px;
+  height: 70px;
+}
+.img-div img {
+  width: 70px;
+}
